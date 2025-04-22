@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  theme_default: light
+  theme_default: dark
 
 # SEO
 marketing:
