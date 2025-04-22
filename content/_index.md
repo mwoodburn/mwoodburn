@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download Resume
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -24,9 +24,7 @@ sections:
         color: white
         image: 
           # Add your image background to `assets/media/`.
-          filename: ''
-          filters:
-            brightness: 1.0
+          filename: 'images.png'
           size: cover
           position: center
           parallax: false
