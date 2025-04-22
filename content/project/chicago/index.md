@@ -1,7 +1,7 @@
 ---
 title: Chicago Land Use and Ownership Maps Reveal Spatially Varying Demolition Patterns
 date: 2025-04-25
-external_link: https://github.com/pandas-dev/pandas
+external_link: ''
 tags:
   - Hugo
   - Wowchemy
