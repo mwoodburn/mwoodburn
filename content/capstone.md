@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Capstone Project: Pre-Screening Unpaved Secondary Roads for Pavement Prioritization, with NCDOT'
+date: 2025-04-
 type: landing
 
 design:
@@ -15,7 +15,7 @@ sections:
       text: Check out some of my projects here.
       filters:
         folders:
-          - project
+          - capstonethings
     design:
       view: article-grid
       fill_image: false

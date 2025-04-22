@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-This analysis identified hot spots in park density by census tract in Chicago, IL using R.
+This analysis identified hot and cold spots in park density by census tract in Cook County, IL using R.
 
 <!--more-->
