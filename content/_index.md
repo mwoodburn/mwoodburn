@@ -21,10 +21,10 @@ sections:
     design:
       css_class: dark
       background: 
-        color: white
+        color: black
         image: 
           # Add your image background to `assets/media/`.
-          filename: 'images.png'
+          filename: ''
           size: cover
           position: center
           parallax: false
