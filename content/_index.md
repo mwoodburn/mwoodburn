@@ -20,9 +20,9 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      background:
-        color: black
-        image:
+      background: 
+        color: white
+        image: 
           # Add your image background to `assets/media/`.
           filename: ''
           filters:
