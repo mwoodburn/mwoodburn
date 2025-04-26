@@ -9,5 +9,5 @@ tags:
 ---
 
 I made the visualizations for this paper in R as an undergraduate research assistant.
-![Four plots](assets/media/plots.jpg)
+
 <!--more-->
