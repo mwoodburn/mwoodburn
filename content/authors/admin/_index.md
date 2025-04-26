@@ -81,7 +81,18 @@ awards:
     date: '2025-04-08'
     awarder: Center for Geospatial Analytics
     icon: ''
- 
+
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: 'And packages numpy, pandas, arcpy, geopanads, osmnx'
+      - name: R
+      - name: SQL
+      - name: ArcGIS Pro
+      - name: QGIS
+      - name: GRASS GIS
+      - name: ArcGIS Online and Experience Builder
 ---
 
 ## About Me
