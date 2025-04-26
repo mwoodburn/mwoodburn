@@ -1,6 +1,6 @@
 ---
 title: CMAP Community Data Snapshots Web Viewer
-date: 2025-02-06
+date: 2024-01-01
 external_link: ''
 
 ---
