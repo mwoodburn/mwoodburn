@@ -10,6 +10,6 @@ tags:
 
 These two basemaps were made of the same area with the goals of making them starkly different in style and of experimenting with styling options for line and polygon features.
 
-![basemap](/workspaces/mwoodburn/assets/media/otherbase.png)
+![basemap](/static/otherbase.png)
 
 <!--more-->
