@@ -39,26 +39,16 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
-    content:
+      content:
       title: Featured Projects
       filters:
         folders:
-          - publication
-        featured_only: true
+          - project
+        featured_only: false
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+      
       
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
