@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MGIST Student at NC State University
+role: Master of Geospatial Information Science & Technology
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -79,6 +79,11 @@ awards:
   - title: Creativity in Teaching Award
     url: https://cnr.ncsu.edu/geospatial/news/2025/04/11/celebrating-our-community-sixth-annual-cga-awards/
     date: '2025-04-08'
+    awarder: Center for Geospatial Analytics
+    icon: ''
+  - title: Best Poster
+    url: https://cnr.ncsu.edu/geospatial/event/mgist-digital-symposium-spring-2025/
+    date: '2025-05-01'
     awarder: Center for Geospatial Analytics
     icon: ''
 
