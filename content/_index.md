@@ -28,16 +28,16 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'About Me'
-      subtitle: ''
-      text: |-
-        Hi, I’m Meg Woodburn. I was born and raised in Raleigh, North Carolina, where I currently live. I received my undergraduate degree in geography from the University of North Carolina at Chapel Hill where worked in a lab studying disease transmission and mitigation, creating data visualizations. I enrolled in the MGIST program to develop my geospatial modeling and analytical abilities and continue creating effective and interesting visualizations. My passions lie with transportation and coding; I have enjoyed working as a GIS intern for the Chicago Metropolitan Agency for planning, where I mainly deal with land use coding, database management, and scripting.
+ # - #block: markdown
+    #content:
+      #title: 'About Me'
+      #subtitle: ''
+      #text: |-
+        #Hi, I’m Meg Woodburn. I was born and raised in Raleigh, North Carolina, where I currently live. I received my undergraduate degree in geography from the University of North Carolina at Chapel Hill where worked in a lab studying disease transmission and mitigation, creating data visualizations. I enrolled in the MGIST program to develop my geospatial modeling and analytical abilities and continue creating effective and interesting visualizations. My passions lie with transportation and coding; I have enjoyed working as a GIS intern for the Chicago Metropolitan Agency for planning, where I mainly deal with land use coding, database management, and scripting.
 
-        My work in the MGIST program, as shown in this portfolio, has prepared me for a career as a GIS analyst or programmer working in the transportation sector. I am excited for the opportunity to communicate with the public about transportation issues through visualizations, and excited to advance the field of transportation modeling and analysis.
-    design:
-      columns: '1'
+        #My work in the MGIST program, as shown in this portfolio, has prepared me for a career as a GIS analyst or programmer working in the transportation sector. I am excited for the opportunity to communicate with the public about transportation issues through visualizations, and excited to advance the field of transportation modeling and analysis.
+    #design:
+      #columns: '1'
   - block: collection
     content:
       title: Featured Projects
